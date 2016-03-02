@@ -1,1 +1,3 @@
-This features website based on java and j2ee concepts which provide custoers to sell,buy and compare products like mobile.
+This features website based on java and j2ee concepts which provide customers to sell,buy and compare products like mobile.
+The request taken from client(any browser) goes to server and there servlets will be called according to request 
+and it will get directed by xml and accodingly servlets and jsp pages will return the data.
