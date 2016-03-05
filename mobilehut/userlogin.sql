@@ -2,7 +2,8 @@
 SQLyog Trial v11.51 (64 bit)
 MySQL - 5.0.77-community-nt : Database - userlogin
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -29,7 +30,7 @@ CREATE TABLE `rajvi` (
 
 /*Data for the table `rajvi` */
 
-insert  into `rajvi`(`name`,`password`,`emailid`,`mobileno`) values ('rajvi108','01081994','rajvinar.333@gmail.com','9610156272'),('riddhijain','10071994','ridz1094@gmail.com','8561830094'),('shubhamchauhan','22091993','yash.buddy1993@gmail.com','8890555564'),('mrinalsharma','30101992','mrinalsharma20206@gmail.com','7597597962'),('mitalibharali','11101994','mitali11space@gmail.com','8764029649'),('shreyaharnavat','08101994','shreyakarnawat510@gmail.com','8764029328'),('rajatgupta','28091992','rajat280992@gmail.com','9166343252'),('kritika agrawal','26011994','kritika.agrawal26@gmail.com','9460400802'),('smriti janu','22091993','smritijanu01@gmail.com','1234567890'),('mitali bharali','11101993','mitali11space@gmail.com','8764029649');
+insert  into `rajvi`(`name`,`password`,`emailid`,`mobileno`) values ('rajvi108','01081994','rajvinar.333@gmail.com','9610156272'),('riddhijain','10071994','ridz1094@gmail.com','8561830094'),('mitalibharali','11101994','mitali11space@gmail.com','8764029649'),('shreyaharnavat','08101994','shreyakarnawat510@gmail.com','8764029328'),('rajatgupta','28091992','rajat280992@gmail.com','9166343252'),('kritika agrawal','26011994','kritika.agrawal26@gmail.com','9460400802'),('smriti janu','22091993','smritijanu01@gmail.com','1234567890'),('mitali bharali','11101993','mitali11space@gmail.com','8764029649');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
